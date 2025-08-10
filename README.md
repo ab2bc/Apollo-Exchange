@@ -2,7 +2,7 @@
 <img src="https://apollo1.io/wp-content/uploads/sites/56/2025/08/cropped-Apollo-Coin2-scaled-1.png" alt="Logo" width="100" height="100">
 </p>
 
-# Apollo-Exchange, a fork from DeepBook V3
+# Apollo-Exchange, a fork of DeepBook V3
 
 DeepBook V3 is a next generation decentralized central limit order book (CLOB) built on Sui. It leverages Sui's parallel execution and low transaction fees to bring a highly performant, low latency exchange on chain. DBv3 comes with brand new features including flashloans, governance, improved account abstraction, and enhancements to the existing matching engine. With the addition of the DEEP token, staked takers can trade with fees as low as 0.25 bps / 2.5 bps on stable and volatile pairs, while allowing staked makers to earn rebates. Checkout the full whitepaper on [deepbook.tech](https://deepbook.tech).
 
